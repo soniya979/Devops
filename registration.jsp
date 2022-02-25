@@ -43,7 +43,7 @@ input {
 </style>
 
 <body>
-	<h1 align=center>Register here for Free Trail!</h1>
+	<h1 align=center>Register here for Free Trail!: test</h1>
 	<div class="ex">
 		<form action="RegistrationController" method="post">
 			<table>
